@@ -1,9 +1,9 @@
 Bachelor thesis code - Sarah Hvid Andersen (au644610/201910230) 
 
-# An Evaluation of state-of-the-art NER Models on Historic text in Danish
+# An Evaluation of state-of-the-art NLP Models on Historic text in Danish
 This github repository contains the code for the thesis.
-all code can be found in the scripts-folder.
-all data can be found in the data folder. 
+All code can be found in the scripts-folder.
+All data can be found in the data folder. 
 
 # Software metadata
 S1  Computing platform / Operating System	
