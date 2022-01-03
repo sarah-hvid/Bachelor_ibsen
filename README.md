@@ -2,8 +2,8 @@ Bachelor thesis code - Sarah Hvid Andersen (au644610/201910230)
 
 # An Evaluation of state-of-the-art NLP Models on Historic text in Danish
 This github repository contains the code for the thesis.
-All code can be found in the scripts-folder.
-All data can be found in the data folder. 
+All code can be found in the scripts-folder. The evaluation CSV files are availavle in the CSV folder, and all results are available in the Results folder.
+The raw XML files, the preprocessed TXT files and the annotated CSV files are available in the zipped Ibsen_git folder. This foler contains the entire project.  
 
 # Software metadata
 S1  Computing platform / Operating System	
